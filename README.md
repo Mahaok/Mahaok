@@ -1,7 +1,8 @@
 ## Olá! Eu sou Paulo Silva 👋
 
-- 🔭 Trabalhando com Design de um case para Oscillo Drive
-- 🌱 Cursando Engenharia Mecânica
+- Pesquisando sobre design de case para Oscillo Drive
+- Cursando Engenharia Mecânica
+- Realizo modelagem 3D no SolidWorks e Onshape
 
 <div align="center">
   <a href="https://github.com/Mahaok">
